@@ -7,6 +7,7 @@ The goal of this project is to implement a natural language processing (NLP) mod
 
 ## Dataset
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
+
 Each sample contains:
 
 review: movie review text
