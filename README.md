@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-The goal of this project is to build a sentiment classification model that automatically predicts whether a movie review is positive or negative.
+The goal of this project is to implement a natural language processing (NLP) model that automatically classifies movie reviews as positive or negative based on the review text.
 
 
 ## Dataset
